@@ -1,4 +1,4 @@
-# Environment Monitoring Bot
+# Environment Monitoring Robot
 
 An autonomous ESP32-based environment monitoring robot designed for real-time sensing, data analysis, and intelligent environmental monitoring.
 
